@@ -1,0 +1,86 @@
+{
+  "data":[
+    {
+      "heading":"Science Articles",
+      "listData":[
+        {
+          "title":"Call to Arms for Wearing Masks",
+          "subtitle":"Health",
+          "description":"With the pandemic raging in the U.S., a new ad campaign features frontline medical personnel pleading for everyone to mask up.",
+          "link":"https://static01.nyt.com/images/2020/11/19/science/19VIRUS-MASKCAMPAIGN-vidcover/maskvideo_master-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"America’s Sea Animals",
+          "subtitle":"Climate",
+          "description":"A new report examines how plastic waste affects marine wildlife.",
+          "link":"https://static01.nyt.com/images/2020/11/19/climate/19CLI-PLASTIC-promo/19CLI-PLASTIC-promo-mediumThreeByTwo210-v2.jpg"
+        },
+        {
+          "title":"Confused About Masks?",
+          "subtitle":"Health",
+          "description":"The accumulating research may be imperfect, and it’s still evolving, but the takeaway is simple. Right now, masks are necessary to slow the pandemic.",
+          "link":"https://static01.nyt.com/images/2020/11/18/science/18VIRUS-MASKEXPLAINER1/18VIRUS-MASKEXPLAINER1-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"The Coronavirus Is Airborne Indoors",
+          "subtitle":"Health",
+          "description":"Scientists who initially warned about contaminated surfaces now say that the virus spreads primarily through inhaled droplets, and that there is little to no evidence that deep cleaning mitigates the threat indoors.",
+          "link":"https://static01.nyt.com/images/2020/11/19/world/19virus-hk-hygiene03/merlin_180083316_747a5b09-7aff-43df-8741-786497b990bb-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"New Pfizer Results of Corona Vaccine",
+          "subtitle":"Health",
+          "description":"New Pfizer Results: Coronavirus Vaccine Is Safe and 95% Effective.\nThe company said it planned to apply for emergency approval from the Food and Drug Administration “within days.”",
+          "link":"https://static01.nyt.com/images/2020/11/17/science/00HFO-PFIZER1/00HFO-PFIZER1-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"Trump Plan to Sell Arctic Oil",
+          "subtitle":"Climate",
+          "description":"Trump Plan to Sell Arctic Oil Leases Will Face Challenges.\nIf lease sales happen in the final days of the Trump administration, they may face disputes in court or could be reversed by the Biden administration.",
+          "link":"https://static01.nyt.com/images/2020/11/17/climate/17CLI-ARCTICREFUGE/17CLI-ARCTICREFUGE-mediumThreeByTwo210.jpg"
+        }
+      ]
+    },
+    {
+      "heading":"Arts Articles",
+      "listData":[
+        {
+          "title":"Anthony Hopkins Makes It Look Simple",
+          "subtitle":"Movies",
+          "description":"In the dementia drama “The Father,” the 82-year-old actor turns in a career-capping performance and yet claims, “No acting required.”\"",
+          "link":"https://static01.nyt.com/images/2020/11/22/arts/22anthony-hopkins1/22anthony-hopkins1-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"Between the World and Me",
+          "subtitle":"Television",
+          "description":"Early walk on fog filled forest are perfect for picturesAn all-star cast came together, remotely and in socially distanced shoots, to turn Ta-Nehisi Coates’s memoir into a vivid amalgam of art, music and performance for HBO.\"",
+          "link":"https://static01.nyt.com/images/2020/11/22/arts/22WORLD-AND-ME1/merlin_177217218_fc244dd1-d064-4982-8e5d-039484832108-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"Paris Opera Was Never Easy",
+          "subtitle":"Music",
+          "description":"Alexander Neef has taken on one of the most prestigious jobs in culture amid a pandemic, labor strikes and internal unrest.",
+          "link":"https://static01.nyt.com/images/2020/11/22/arts/22NEEF-1/22NEEF-1-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":" From Anguish to Transcendence",
+          "subtitle":"Design",
+          "description":"Woven into his new work at Petzel Gallery are lessons drawn from his own journey to art stardom, and from a year of Black grief.",
+          "link":"https://static01.nyt.com/images/2020/11/20/arts/18FORDJOUR-PROFILE3/18FORDJOUR-PROFILE3-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"Mangrove’ Review By A.O. Scott",
+          "subtitle":"Movies",
+          "description":"The first episode in Steve McQueen’s “Small Axe” anthology dramatizes protest and police brutality in 1960s London.",
+          "link":"https://static01.nyt.com/images/2020/11/19/arts/19mangrove1/19mangrove1-mediumThreeByTwo210.jpg"
+        },
+        {
+          "title":"Things to Do This Weekend",
+          "subtitle":"Arts",
+          "description":"Our critics and writers have selected noteworthy cultural events to experience virtually or in person in New York City.",
+          "link":"https://static01.nyt.com/images/2020/11/19/arts/19wkd-arts-roundup1/19wkd-arts-roundup1-mediumThreeByTwo210.jpg"
+        }
+      ]
+    }
+  ]
+}
